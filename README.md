@@ -41,7 +41,7 @@ philosophy: "Pass the cert before you feel ready. Ship the project before it's p
   <img src="https://img.shields.io/badge/AWS-AI_Practitioner_(AIF--C01)-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/Next-Solutions_Architect_(SAA--C03)-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Next-Developer_Associate_(DVA--C02)-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
 
 </div>
 
